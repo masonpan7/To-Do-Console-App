@@ -1,0 +1,1 @@
+This To-Do list is written in C. It has the ability to add and remove tasks. In addition, you can mark a task as done and save and load your current to-do list into a CSV file. Each task on the to-do list also has a priority of low, medium, or high.
